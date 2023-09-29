@@ -16,8 +16,7 @@
 ## Expected Result
 * Открыть вкладку "Customer"
 * Убедиться что клиент добавлен в систему 
-## Actual result
-* N/A
+
 
 #  [Test ID 2] (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/list)
 ## Test Case Name
@@ -33,8 +32,7 @@
 * Повторно нажать на кнопку "First Name"
 ## Expected Result 
 * Изменение наименования списка клиентов согласно заданному Pre-Conditions
-## Actual result
-* N/A
+
 
 #  [Test ID 3] (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/list)
 ## Test Case Name
@@ -50,5 +48,4 @@
 * Ввести нужное значение согласно внесенным данным в поле "Search Customer"
 ## Expected Result 
 * Вывод имени клиентов по заданному значению по алфавиту
-## Actual result
-* Вывод имени клиентов по заданному значению по алфавиту
+
