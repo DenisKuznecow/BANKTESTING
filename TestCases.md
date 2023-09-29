@@ -1,8 +1,8 @@
-#  [Test ID 1] (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/openAccount)
+#  [Test ID 1] 
 ## Test Case Name
 * Добавление клиента с корректными входными данными
 ## Test Description
-* Позитивный Test-Case
+* (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/openAccount)
 ## Pre-Conditions
 * Валидные значения в полях "First Name", "Last Name" только буквенные кириллица и латиница вне зависимости от регистра
 * Валидные значения в поле "Post Code" буквенные кириллица и латиница вне зависимости от регистра и цифровые 
@@ -17,13 +17,13 @@
 * Открыть вкладку "Customer"
 * Убедиться что клиент добавлен в систему 
 ## Actual result
-* Клиент добавлен в систему
+* N/A
 
 #  [Test ID 2] (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/list)
 ## Test Case Name
 * Сортировка клиентов по имени (First Name)
 ## Test Description
-* Позитивный Test-Case
+* (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/list)
 ## Pre-Conditions
 * Если добавлен клиент на латинице, изменение наименований идет согласно алфавитному порядку
 * Если добавлен клиент на киррилице, изменение наименований идет согласно алфавитному порядку на кириллице с самого начала списка
@@ -33,14 +33,14 @@
 * Повторно нажать на кнопку "First Name"
 ## Expected Result 
 * Изменение наименования списка клиентов согласно заданному Pre-Conditions
-## Expected Result 
-* Изменение наименования списка клиентов согласно заданному Pre-Conditions
+## Actual result
+* N/A
 
 #  [Test ID 3] (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/list)
 ## Test Case Name
 * Поиск клиента по имени в поле "Search Customer"
 ## Test Description
-* Позитивный Test-Case
+* (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/list)
 ## Pre-Conditions
 * Добавить клиента в вкладке "Add Customer"
 * Валидные значения в полях "First Name", "Last Name" только буквенные кириллица и латиница вне зависимости от регистра
@@ -50,5 +50,5 @@
 * Ввести нужное значение согласно внесенным данным в поле "Search Customer"
 ## Expected Result 
 * Вывод имени клиентов по заданному значению по алфавиту
-## Expected Result 
+## Actual result
 * Вывод имени клиентов по заданному значению по алфавиту
